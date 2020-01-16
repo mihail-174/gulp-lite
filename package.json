@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "gulp --debug"
+    "start": "gulp"
   },
   "author": {
     "name": "mihail-174",
